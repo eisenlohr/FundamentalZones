@@ -9,10 +9,10 @@ In Rodrigues space, a rotation is expressed as a 3D vector whose
 * **direction** is the **axis of rotation** (a unit vector),
 * **magnitude** represents the **rotation angle**.
 
-Specifically, the Rodrigues vector is expressed as $\mathbf{r} = \tan\left(\frac{\theta}{2}\right) \, \mathbf{u}$  where
+Specifically, the Rodrigues vector is expressed as $\vec{r} = \tan\left(\frac{\theta}{2}\right) \vec{u}$  where
 
 * $\theta$ is the angle of rotation,
-* $\mathbf{u}$ is the axis of rotation (a unit vector).
+* $\vec{u}$ is the axis of rotation (a unit vector).
 
 This creates a 1:1 mapping between rotations (up to ±π) and points in 3D space.
 
