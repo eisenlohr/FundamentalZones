@@ -1,10 +1,10 @@
 # FundamentalZones
 
-This repository holds VTK files of mesh representations in Rodrigues space of the Fundamental Zone (FZ) of selected orientations and disorientations.
+This repository holds VTK files of mesh representations in Rodrigues space of the orientation and disorientation Fundamental Zone (FZ) of selected crystal symmetries.
 
 ## Rodrigues space
 
-In Rodrigues space a rotation is expressed as a 3D vector whose
+In Rodrigues space, a rotation is expressed as a 3D vector whose
 
 * **direction** is the **axis of rotation** (a unit vector),
 * **magnitude** represents the **rotation angle**.
@@ -20,7 +20,7 @@ This creates a 1:1 mapping between rotations (up to ±π) and points in 3D space
 
 ### Orientation Fundamental Zones
 
-In order of increasing volume (decreasing degree of symmetry), the below animated volume contains the FZs for the four lattice symmetries:
+In order of increasing volume (decreasing degree of symmetry), the following animated volume contains the FZs for the four crystal symmetries:
 
 * cubic
 * hexagonal
